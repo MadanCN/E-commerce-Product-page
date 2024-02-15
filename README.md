@@ -10,11 +10,7 @@ An E-commerce product page showcasing a sneaker.
   <li>Add items to the cart</li>
   <li>View the cart and remove items from it</li>
 </ul>
-
 <hr>
-
-
-
 <h2>Built with</h2>
 <ul>
   <li>HTML </li>
