@@ -20,8 +20,11 @@ An E-commerce product page showcasing a sneaker.
   <li> Mobile-first workflow</li>
   <li>Session storage </li>
 </ul>
-![project-desktop-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/a5631bda-99da-4589-a82f-0af3edf17176)
-![project-desktop-focus-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/d81f64d2-37b0-4978-a429-09206224374f)
-![project-mobile-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/304087aa-018d-4f55-aa33-68697bb2e63b)
-![project-mobile-menu-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/25350bec-8dee-41a6-a50d-6d72d4f5d7fa)
 
+
+
+![project-desktop-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/1bfff91b-c642-4b45-9774-8296382197a1)
+![project-desktop-focus-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/6c4f56ce-6a7e-4b1a-afa5-72c3e477668c)
+
+![project-mobile-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/5fb8ac17-e4cb-4158-b3e4-671b74a2f82c)
+![project-mobile-menu-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/82109a4b-8811-46b7-b89c-6420fc3a53ae)
