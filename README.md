@@ -20,3 +20,8 @@ An E-commerce product page showcasing a sneaker.
   <li> Mobile-first workflow</li>
   <li>Session storage </li>
 </ul>
+![project-desktop-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/a5631bda-99da-4589-a82f-0af3edf17176)
+![project-desktop-focus-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/d81f64d2-37b0-4978-a429-09206224374f)
+![project-mobile-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/304087aa-018d-4f55-aa33-68697bb2e63b)
+![project-mobile-menu-preview](https://github.com/MadanCN/E-commerce-Product-page/assets/128129601/25350bec-8dee-41a6-a50d-6d72d4f5d7fa)
+
